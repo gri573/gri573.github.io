@@ -1,0 +1,19 @@
+body {
+    font-family: "sans-serif";
+    background: #FFC9AD;
+}
+img {
+    width: 80%;
+    margin: 0 10% 0 10%;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+h1 {
+    margin: 0 10% 10px 10%; 
+    background: #E6B59C;
+    font-family: "serif";
+    font-size: 40px;
+    text-align: center;
+    border-style: none none dashed none;
+    border-width: 2px;
+}
