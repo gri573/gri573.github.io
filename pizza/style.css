@@ -4,7 +4,7 @@ body {
 }
 img {
     width: 80%;
-    margin: 0 10% 0 10%;
+    margin: 0 10% 10px 10%;
     border: 1px solid black;
     border-radius: 4px;
 }
