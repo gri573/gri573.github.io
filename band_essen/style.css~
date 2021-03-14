@@ -9,11 +9,20 @@ img {
     border-radius: 4px;
 }
 h1 {
-    margin: 0 10% 10px 10%; 
+    margin: 0 5% 10px 5%; 
     background: #E6B59C;
     font-family: "serif";
     font-size: 40px;
     text-align: center;
     border-style: none none dashed none;
     border-width: 2px;
+}
+h2 {
+    margin: 0 10% 10px 10%; 
+    background: #F9C1A3;
+    font-family: "serif";
+    font-size: 30px;
+    text-align: center;
+    border-style: none none dotted none;
+    border-width: 1px;
 }

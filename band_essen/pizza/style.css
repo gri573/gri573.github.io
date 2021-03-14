@@ -1,0 +1,83 @@
+body {
+    font-family: "sans-serif";
+    background: #FFC9AD;
+}
+
+p {
+    margin: 0 10% 10px 10%;
+}
+
+img {
+    width: 80%;
+    margin: 0 10% 10px 10%;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+h1 {
+    margin: 0 5% 10px 5%; 
+    background: #E6B59C;
+    font-family: "serif";
+    font-size: 40px;
+    text-align: center;
+    border-style: none none dashed none;
+    border-width: 2px;
+}
+
+h2 {
+    margin: 0 10% 10px 10%; 
+    background: #F9C1A3;
+    font-family: "serif";
+    font-size: 30px;
+    text-align: center;
+    border-style: none none dotted none;
+    border-width: 1px;
+}
+
+a:link, a:visited {
+    display: inline-block;
+    margin: 10px;
+    margin-left: 10%;
+    padding: 10px;
+    background: #E6B59C;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    
+}
+
+a:hover {
+    display: inline-block;
+    margin: 10px;
+    margin: 10%;
+    padding: 10px;
+    background: #D6A58C;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+
+a:active {
+    display: inline-block;
+    margin: 10px;
+    margin-left: 10%;
+    padding: 10px;
+    background: #C6957C;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
